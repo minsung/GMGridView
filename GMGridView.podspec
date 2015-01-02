@@ -13,6 +13,7 @@
   },
   "source": {
     "git": "https://github.com/minsung/GMGridView.git",
+    "tag": "v1.1.1"
   },
   "source_files": "GMGridView/*.{h,m}",
   "requires_arc": true,
